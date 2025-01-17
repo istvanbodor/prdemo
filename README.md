@@ -1,2 +1,2 @@
 # prdemo
-valtozas 2
+ez egy masik valtozatas
